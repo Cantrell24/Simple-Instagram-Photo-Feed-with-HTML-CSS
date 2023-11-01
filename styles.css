@@ -1,0 +1,73 @@
+.Section{
+    display: flex; 
+    align-items: center;
+    flex-direction: column; 
+    background-color: rgb(230, 214, 214);
+}
+
+/* .container{
+    width: 500px;
+    margin:auto
+} */
+
+body{
+    margin: 0;
+}
+
+.post{
+    background-color: white;
+    width: 500px;
+    margin-bottom: 20px;
+    margin-top: 20px
+}
+
+.top{
+    background-color: white;
+}
+.page{
+    background-color: rgb(230, 214, 214);
+    
+}
+
+/* body{
+    background-color: rgb(230, 214, 214);
+} */
+
+h1{
+    background: white;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    /* text-align: center; */
+}
+
+h4{
+    width: 90%;
+    height: 0; 
+    background-color: blue !important;
+}
+
+img{
+    width: 500px;
+}
+
+.Header{
+    display: flex;
+    padding-left: 10px;
+   
+}
+
+.Footer {
+    padding-left: 10px;
+    margin:10px
+}
+/* .photo-header{
+    background: white;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    align-items:center;
+    
+} */
+
